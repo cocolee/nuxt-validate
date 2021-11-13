@@ -1,4 +1,4 @@
-# Nuxt Validate
+# Nuxt Validate (Updated vee-validate v3.x.x )
 
 <p>
   <a href="https://www.npmjs.com/package/nuxt-validate"><img src="https://badgen.net/npm/dm/nuxt-validate" alt="Downloads"></a>
